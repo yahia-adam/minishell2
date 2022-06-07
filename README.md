@@ -1,4 +1,4 @@
-# MINISHELL
+# MINISHELL1 -> MINISHELL2
 
 {EPITECH.} first year project.
 C shell that can execute basic commands.
