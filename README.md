@@ -2,18 +2,17 @@
 
 {EPITECH.} first year project.
 C shell that can execute basic commands.
-
 This shell is based on tcsh.
 
-Requirements
+Requirements:
     A Linux distribution or Apple's macOS
     Make
     GCC
   
-Compilation
+Compilation:
   Navigate to the root of the repository from your Terminal and run make to build the mysh executable file.
 
-Features
+Features:
     Execute basic commands
     Execute multiple commands with separators
     Can manage its own environment
@@ -26,6 +25,6 @@ Features
         setenv
         unsetenv
    And more complex commands (pipes, redirections...).
-   
+ 
 Prompt based on last exit status
     Support for non-interactive mode
