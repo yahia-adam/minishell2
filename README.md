@@ -1,2 +1,2 @@
-# 42sh
+# MINISHELL
 create a SHELL
