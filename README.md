@@ -13,7 +13,9 @@
   
 <h2>Compilation:</h2>
 
-- Navigate to the root of the repository from your Terminal and run make to build the mysh executable file.
+- Navigate to the root of the repository from your Terminal
+- run make to build the mysh executable file
+- execute my_sh file.
 
 
 <h2>Features:</h2>
